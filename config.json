@@ -4,8 +4,8 @@
   "git_username": "modaozhiren",
   "git_email": "1456254579@qq.com",
   "use_own_dt": true,
-  "dt_url": "modaozhiren/android_device_essential_mata",
-  "dt_branch": "android-11-new",
+  "dt_url": "LineageOS/android_device_essential_mata",
+  "dt_branch": "lineage-18.1",
   "dt_remote": "github",
   "dt_path": "device/essential/mata",
   "device_code": "mata",
@@ -14,5 +14,5 @@
   "fix_product": false,
   "fix_misscom": false,
   "fix_busybox": false,
-  "fix_branch": "android-11"
+  "fix_branch": false,
 }
